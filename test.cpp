@@ -19,4 +19,5 @@ int main(){
     cout<<"Hello world sssssssssss !"<<endl;
 
     cout<<"Hellloooooooo";
+    cout<<"kr diye push ";
 }
